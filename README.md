@@ -1,5 +1,7 @@
 # Auto Disk Partition Mount Script
 
+[English](README.md) | [中文](README_CN.md)
+
 A Shell script for automatically detecting, partitioning, formatting, and mounting disks. The script is available in both English and Chinese versions.
 
 ## Features
